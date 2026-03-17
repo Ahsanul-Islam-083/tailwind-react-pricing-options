@@ -1,0 +1,47 @@
+{
+  "pricing": [
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": "$19.99/month",
+      "description": "Perfect for beginners who want access to essential gym equipment and a comfortable workout environment.",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "1 free fitness assessment",
+        "Free WiFi",
+        "Basic cardio machines"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": "$39.99/month",
+      "description": "Great for regular gym-goers who want additional classes and better training support.",
+      "features": [
+        "All Basic Plan features",
+        "Unlimited group classes",
+        "Access to strength training area",
+        "2 personal trainer sessions per month",
+        "Nutrition guidance",
+        "Sauna access"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": "$59.99/month",
+      "popular":true,
+      "description": "Designed for fitness enthusiasts who want advanced training and full facility access.",
+      "features": [
+        "All Standard Plan features",
+        "Unlimited personal trainer sessions",
+        "Access to premium equipment",
+        "Recovery and stretching zone",
+        "Free protein shake after workouts",
+        "Guest pass (2 per month)",
+        "Custom workout plan"
+      ]
+    }
+  ]
+}
